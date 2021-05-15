@@ -29,6 +29,6 @@ RUN make
 RUN make install
 
 #open service port
-EXPOSE 9666 19666
+EXPOSE 16329
 
 CMD ["pfandcoind", "--printtoconsole"]
