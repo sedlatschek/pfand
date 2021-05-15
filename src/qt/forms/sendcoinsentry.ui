@@ -779,8 +779,8 @@
        <brush brushstyle="SolidPattern">
         <color alpha="255">
          <red>0</red>
-         <green>0</green>
-         <blue>0</blue>
+         <green>72</green>
+         <blue>133</blue>
         </color>
        </brush>
       </colorrole>
