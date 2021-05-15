@@ -1318,7 +1318,7 @@
     </message>
     <message>
         <source>Mined balance that has not yet matured</source>
-        <translation>Erarbeiteter Betrag der noch nicht gereift ist</translation>
+        <translation>Gesammelter Pfand der noch nicht gereift ist</translation>
     </message>
     <message>
         <source>Balances</source>
@@ -1350,7 +1350,7 @@
     </message>
     <message>
         <source>Mined balance in watch-only addresses that has not yet matured</source>
-        <translation>Erarbeiteter Betrag in nur-beobachteten Adressen der noch nicht gereift ist</translation>
+        <translation>Gesammelt Pfand in nur-beobachteten Adressen der noch nicht gereift ist</translation>
     </message>
     <message>
         <source>Current total balance in watch-only addresses</source>
@@ -2903,7 +2903,7 @@ Hinweis: Eine Gebühr von "100 Satoshis pro kB" bei einer Größe der Transaktio
     </message>
     <message>
         <source>Mined</source>
-        <translation>Erarbeitet</translation>
+        <translation>Gesammelt</translation>
     </message>
     <message>
         <source>watch-only</source>
@@ -2986,7 +2986,7 @@ Hinweis: Eine Gebühr von "100 Satoshis pro kB" bei einer Größe der Transaktio
     </message>
     <message>
         <source>Mined</source>
-        <translation>Erarbeitet</translation>
+        <translation>Gesammelt</translation>
     </message>
     <message>
         <source>Other</source>

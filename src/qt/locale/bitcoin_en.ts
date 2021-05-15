@@ -1676,8 +1676,8 @@
     </message>
     <message>
         <location line="-29"/>
-        <source>Mined balance that has not yet matured</source>
-        <translation>Mined balance that has not yet matured</translation>
+        <source>Pfand gesammelte balance that has not yet matured</source>
+        <translation>Pfand gesammelte balance that has not yet matured</translation>
     </message>
     <message>
         <location line="-177"/>
@@ -1716,7 +1716,7 @@
     </message>
     <message>
         <location line="+50"/>
-        <source>Mined balance in watch-only addresses that has not yet matured</source>
+        <source>Pfand gesammelte balance in watch-only addresses that has not yet matured</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3766,7 +3766,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+2"/>
-        <source>Mined</source>
+        <source>Pfand gesammelt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3870,7 +3870,7 @@ Note:  Since the fee is calculated on a per-byte basis, a fee of &quot;100 satos
     </message>
     <message>
         <location line="+1"/>
-        <source>Mined</source>
+        <source>Pfand gesammelt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
