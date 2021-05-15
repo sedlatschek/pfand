@@ -1,1 +1,3 @@
 src/clientversion.cpp export-subst
+
+* text=auto eol=lf
